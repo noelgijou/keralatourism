@@ -1,0 +1,58 @@
+.fofa{
+    max-width: 753px;
+}
+
+
+img {
+   display: block;
+    /*border: 10px solid;*/
+    
+  }
+
+
+
+  *{
+      margin: auto;
+  }
+
+
+/*h1{
+    padding-top: 10px;
+    padding-left: 30%;
+  }
+
+  h3{
+    padding-top: 10px;
+    padding-left: 30%;
+  }
+*/
+  .slick{
+    text-align: justify;
+}
+
+.divmargin{
+  margin-top: 5%;
+  margin-bottom:5%;
+  border: 10px rgb(38, 161, 38);
+  max-width: 850px;
+  padding-top: 15px;
+  padding: 15px;
+  background-color: rgba(95, 158, 160, 0.308) ;
+  
+
+}
+
+
+h1{
+  /*border: 10px solid;*/
+  max-width: 753px;
+}
+p{
+  /*border: 10px solid;*/
+  max-width: 753px;
+}
+
+h3{
+  /*border: 10px solid;*/
+  max-width: 753px;
+}

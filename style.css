@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.sizetest{
+    width: 1280px;
+    margin:auto;
+}
+
+.formlog{
+
+margin:auto;
+margin-top: 5%;
+}
+#bottomhead{
+    margin-top: 3%;
+    text-align: center;
+    color: lavenderblush;
+}
+
+.mymargin{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.frrr{
+    padding: 5%;
+        background-color: rgba(81, 83, 74, 0.747);
+}
